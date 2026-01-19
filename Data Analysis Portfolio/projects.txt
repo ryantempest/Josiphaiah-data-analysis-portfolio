@@ -1,0 +1,31 @@
+Project 1 = Pure Sips Beverage
+Company: 
+PureSipBeverages is a company specialising in the distribution of popular 
+beverage brands like Coke, Fanta, and Sprite. They supply to major retail chains, 
+including Costco, Walgreens, Target, and Walmart
+Challenge: PureSipBeverages relies on individual spreadsheets maintained by each
+Regional manager to track sales. This siloed approach posed several challenges:
+
+
+Pure sip website Link = <iframe title="PureSip Data" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTNhZThjNmUtZWM5OC00NWMwLTlhNWUtZGI2MDJjMzUzZWI2IiwidCI6IjYzN2I0MTE2LWRlY2MtNGU3YS04ZDg5LTlhODQ3N2MyN2UxMyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+Project 2 = Deskify Office Supply
+Deskify Office Supply Co. is a leading retailer 
+specializing in office supplies, 
+technology/computer accessories, and furniture. 
+
+
+Deskify website link = <iframe title="Deskify" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjUwZWYwMTMtNzUyYS00OGVhLTkyYjItYmRlNDAyOWNiZmRiIiwidCI6IjYzN2I0MTE2LWRlY2MtNGU3YS04ZDg5LTlhODQ3N2MyN2UxMyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+Project 3 = Airbnb Travel Insights 
+
+
+Airbnb website Link = <iframe title="Airbnb" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTMyYzYwZDItOTg4Zi00ODFkLTllZTYtMGZiZjM5N2QxYWE3IiwidCI6IjYzN2I0MTE2LWRlY2MtNGU3YS04ZDg5LTlhODQ3N2MyN2UxMyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+Project 4 = Clarity Care Insight
+
+Clarity Website link = <iframe title="Suicidal Dataset" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTI3YjdlM2QtYmY1Yi00YzJiLWJjNmItMzE5MGRmZDg0MWFmIiwidCI6IjYzN2I0MTE2LWRlY2MtNGU3YS04ZDg5LTlhODQ3N2MyN2UxMyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+Project 5 = Tri Fleet insights
+
+Tri-fleet website link = <iframe title="Trifleet Data" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=fc7381e4-c13f-493f-aa5e-f417e5013c5e&autoAuth=true&ctid=637b4116-decc-4e7a-8d89-9a8477c27e13" frameborder="0" allowFullScreen="true"></iframe>
